@@ -1,8 +1,3 @@
 # test-repo
 
-
-asd
-
-asd
-asd
-asasdasdasd
+test
